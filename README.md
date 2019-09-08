@@ -1,4 +1,4 @@
-# digit_recognizer  
+# DigitRecognizer 
 
 <img src="screenshots/digitrecognizerfinal.gif" width="400" height="450">
 
