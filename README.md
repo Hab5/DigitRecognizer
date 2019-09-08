@@ -9,3 +9,16 @@ Here is a quick look at some of its instances :
 
 <img src="screenshots/screenshot_mnist.png" width="290" height="125">
 
+# Usage
+
+`python3.7 digit_recognizer.py`
+
+# Dependencies
+
+- tkinter
+- matplotlib
+- numpy
+- tensorflow
+- opencv
+  
+Also uses imagemagick and gs. (which aren't python dependencies but tool, you can get them with brew, pacman, yay, apt-get, or whatever package manager you use)
