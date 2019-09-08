@@ -21,4 +21,4 @@ Here is a quick look at some of its instances :
 - tensorflow
 - opencv
   
-Also uses imagemagick and gs. (which aren't python dependencies but tool, you can get them with brew, pacman, yay, apt-get, or whatever package manager you use)
+Also uses imagemagick and gs. (which aren't python dependencies, you can get them with brew, pacman, yay, apt-get, or whatever package manager you use)
