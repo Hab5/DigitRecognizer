@@ -7,5 +7,5 @@ A simple program made with Tkinter and Keras, it prompts the user to draw a numb
 The mnist dataset is a popular dataset containing 70000 28x28 images of handwritten digits.  
 Here is a quick look at some of its instances :  
 
-<img src="screenshots/screenshot_mnist.png">
+<img src="screenshots/screenshot_mnist.png" width="290" height="125">
 
